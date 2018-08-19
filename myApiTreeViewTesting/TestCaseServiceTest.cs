@@ -10,7 +10,7 @@ using myApiTreeView.Utilities;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace TreeViewTesting
+namespace myApiTreeViewTesting
 {
     [TestClass]
     public class TestCaseServiceTest

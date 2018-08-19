@@ -10,14 +10,14 @@ using System.Net;
 using System.Threading.Tasks;
 using System.Web.Http;
 
-namespace TreeViewTesting
+namespace myApiTreeView
 {
     [TestClass]
-    public class TreeViewControllerTest
+    public class TestCaseControllerUnitest
     {
         private Mock<IFolderService> _folderServiceMock;
         private Mock<ITestCaseService> _testCaseServiceMock;
-        private TreeViewController _controller;
+        private TestCaseController _controller;
 
         [TestInitialize]
         public void Initialize()
@@ -25,7 +25,7 @@ namespace TreeViewTesting
             var mocker = new AutoMocker();
             _folderServiceMock = mocker.GetMock<IFolderService>();
             _testCaseServiceMock = mocker.GetMock<ITestCaseService>();
-            _controller = new TreeViewController(_folderServiceMock.Object, _testCaseServiceMock.Object);
+            _controller = new TestCaseController(_testCaseServiceMock.Object);
         }
 
 

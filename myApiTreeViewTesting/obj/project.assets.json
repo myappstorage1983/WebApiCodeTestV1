@@ -5672,15 +5672,6 @@
           "lib/netcoreapp2.0/_._": {}
         }
       },
-      "System.Web.Http.Common/4.0.20126.16343": {
-        "type": "package",
-        "compile": {
-          "lib/net40/System.Web.Http.Common.dll": {}
-        },
-        "runtime": {
-          "lib/net40/System.Web.Http.Common.dll": {}
-        }
-      },
       "System.Xml.ReaderWriter/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -5867,7 +5858,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "2.1.1",
           "Microsoft.NETCore.App": "2.1.0",
           "Newtonsoft.Json": "11.0.2",
-          "Swashbuckle.AspNetCore": "3.0.0"
+          "Swashbuckle.AspNetCore": "3.0.0",
+          "Swashbuckle.AspNetCore.Swagger": "3.0.0"
         },
         "compile": {
           "bin/placeholder/myApiTreeView.dll": {}
@@ -14710,17 +14702,6 @@
         "version.txt"
       ]
     },
-    "System.Web.Http.Common/4.0.20126.16343": {
-      "sha512": "3tybnaxSQAWu2aLSAh+7PRZ8Cw4f/DIECPJZ5yBcnm5sQKjr95zViCasYH3p6Z1hxATSTmlecvCcvlt/FDy+8w==",
-      "type": "package",
-      "path": "system.web.http.common/4.0.20126.16343",
-      "files": [
-        "lib/net40/System.Web.Http.Common.dll",
-        "lib/net40/System.Web.Http.Common.xml",
-        "system.web.http.common.4.0.20126.16343.nupkg.sha512",
-        "system.web.http.common.nuspec"
-      ]
-    },
     "System.Xml.ReaderWriter/4.3.0": {
       "sha512": "GrprA+Z0RUXaR4N7/eW71j1rgMnEnEVlgii49GZyAjTH7uliMnrOU3HNFBr6fEDBCJCIdlVNq9hHbaDR621XBA==",
       "type": "package",
@@ -15110,7 +15091,6 @@
       "Microsoft.NETCore.App >= 2.1.0",
       "Moq >= 4.9.0",
       "Moq.AutoMock >= 1.2.0.111",
-      "System.Web.Http.Common >= 4.0.20126.16343",
       "myApiTreeView >= 1.0.0"
     ]
   },
@@ -15121,11 +15101,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotnet\\TreeViewTesting\\TreeViewTesting.csproj",
-      "projectName": "TreeViewTesting",
-      "projectPath": "D:\\dotnet\\TreeViewTesting\\TreeViewTesting.csproj",
+      "projectUniqueName": "D:\\dotnet\\myApiTreeViewTesting\\myApiTreeViewTesting.csproj",
+      "projectName": "myApiTreeViewTesting",
+      "projectPath": "D:\\dotnet\\myApiTreeViewTesting\\myApiTreeViewTesting.csproj",
       "packagesPath": "C:\\Users\\leela\\.nuget\\packages\\",
-      "outputPath": "D:\\dotnet\\TreeViewTesting\\obj\\",
+      "outputPath": "D:\\dotnet\\myApiTreeViewTesting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -15183,10 +15163,6 @@
           "Moq.AutoMock": {
             "target": "Package",
             "version": "[1.2.0.111, )"
-          },
-          "System.Web.Http.Common": {
-            "target": "Package",
-            "version": "[4.0.20126.16343, )"
           }
         },
         "imports": [
@@ -15196,17 +15172,5 @@
         "warn": true
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'System.Web.Http.Common 4.0.20126.16343' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETCoreApp,Version=v2.1'. This package may not be fully compatible with your project.",
-      "libraryId": "System.Web.Http.Common",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v2.1"
-      ]
-    }
-  ]
+  }
 }

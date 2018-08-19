@@ -1,0 +1,17 @@
+D:\dotnet\myApiTreeViewTesting\obj\Debug\netcoreapp2.1\myApiTreeViewTesting.csprojAssemblyReference.cache
+D:\dotnet\myApiTreeViewTesting\obj\Debug\netcoreapp2.1\myApiTreeViewTesting.csproj.CoreCompileInputs.cache
+D:\dotnet\myApiTreeViewTesting\obj\Debug\netcoreapp2.1\myApiTreeViewTesting.AssemblyInfoInputs.cache
+D:\dotnet\myApiTreeViewTesting\obj\Debug\netcoreapp2.1\myApiTreeViewTesting.AssemblyInfo.cs
+D:\dotnet\myApiTreeViewTesting\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\dotnet\myApiTreeViewTesting\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\dotnet\myApiTreeViewTesting\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\dotnet\myApiTreeViewTesting\bin\Debug\netcoreapp2.1\myApiTreeViewTesting.deps.json
+D:\dotnet\myApiTreeViewTesting\bin\Debug\netcoreapp2.1\myApiTreeViewTesting.runtimeconfig.json
+D:\dotnet\myApiTreeViewTesting\bin\Debug\netcoreapp2.1\myApiTreeViewTesting.runtimeconfig.dev.json
+D:\dotnet\myApiTreeViewTesting\bin\Debug\netcoreapp2.1\myApiTreeViewTesting.dll
+D:\dotnet\myApiTreeViewTesting\bin\Debug\netcoreapp2.1\myApiTreeView.dll
+D:\dotnet\myApiTreeViewTesting\bin\Debug\netcoreapp2.1\myApiTreeView.pdb
+D:\dotnet\myApiTreeViewTesting\obj\Debug\netcoreapp2.1\myApiTreeViewTesting.csproj.CopyComplete
+D:\dotnet\myApiTreeViewTesting\bin\Debug\netcoreapp2.1\myApiTreeViewTesting.pdb
+D:\dotnet\myApiTreeViewTesting\obj\Debug\netcoreapp2.1\myApiTreeViewTesting.dll
+D:\dotnet\myApiTreeViewTesting\obj\Debug\netcoreapp2.1\myApiTreeViewTesting.pdb

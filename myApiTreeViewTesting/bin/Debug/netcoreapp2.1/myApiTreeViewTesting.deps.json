@@ -1,23 +1,22 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "1ec8241f97208e92807dbeb7335bff02f6a5c88b"
+    "signature": "c2147939c49ebbfb4cc1b673455ca0ae7dfeb8e7"
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "TreeViewTesting/1.0.0": {
+      "myApiTreeViewTesting/1.0.0": {
         "dependencies": {
           "MSTest.TestAdapter": "1.3.2",
           "MSTest.TestFramework": "1.3.2",
           "Microsoft.NET.Test.Sdk": "15.8.0",
           "Moq": "4.9.0",
           "Moq.AutoMock": "1.2.0.111",
-          "System.Web.Http.Common": "4.0.20126.16343",
           "myApiTreeView": "1.0.0"
         },
         "runtime": {
-          "TreeViewTesting.dll": {}
+          "myApiTreeViewTesting.dll": {}
         }
       },
       "AutoMapper/7.0.1": {
@@ -4521,14 +4520,6 @@
         }
       },
       "System.ValueTuple/4.5.0": {},
-      "System.Web.Http.Common/4.0.20126.16343": {
-        "runtime": {
-          "lib/net40/System.Web.Http.Common.dll": {
-            "assemblyVersion": "4.0.0.0",
-            "fileVersion": "4.0.20126.16343"
-          }
-        }
-      },
       "System.Xml.ReaderWriter/4.3.0": {
         "dependencies": {
           "System.Collections": "4.3.0",
@@ -4667,7 +4658,8 @@
           "Microsoft.EntityFrameworkCore.Design": "2.1.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.1.1",
           "Newtonsoft.Json": "11.0.2",
-          "Swashbuckle.AspNetCore": "3.0.0"
+          "Swashbuckle.AspNetCore": "3.0.0",
+          "Swashbuckle.AspNetCore.Swagger": "3.0.0"
         },
         "runtime": {
           "myApiTreeView.dll": {}
@@ -4676,7 +4668,7 @@
     }
   },
   "libraries": {
-    "TreeViewTesting/1.0.0": {
+    "myApiTreeViewTesting/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -7011,13 +7003,6 @@
       "sha512": "sha512-xZtSZNEHGa+tGsKuP4sh257vxJ/yemShz4EusmomkynMzuEDDjVaErBNewpzEF6swUgbcrSQAX3ELsEp1zCOwA==",
       "path": "system.valuetuple/4.5.0",
       "hashPath": "system.valuetuple.4.5.0.nupkg.sha512"
-    },
-    "System.Web.Http.Common/4.0.20126.16343": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-3tybnaxSQAWu2aLSAh+7PRZ8Cw4f/DIECPJZ5yBcnm5sQKjr95zViCasYH3p6Z1hxATSTmlecvCcvlt/FDy+8w==",
-      "path": "system.web.http.common/4.0.20126.16343",
-      "hashPath": "system.web.http.common.4.0.20126.16343.nupkg.sha512"
     },
     "System.Xml.ReaderWriter/4.3.0": {
       "type": "package",

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "myApiTreeView", "myApiTreeView.csproj", "{8580ABD9-7D83-42C4-8C23-74170E7FEA91}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "myApiTreeViewTesting", "..\myApiTreeViewTesting\myApiTreeViewTesting.csproj", "{45267AB5-DB11-4685-BB6B-9F8E1AE9B4EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8580ABD9-7D83-42C4-8C23-74170E7FEA91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8580ABD9-7D83-42C4-8C23-74170E7FEA91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8580ABD9-7D83-42C4-8C23-74170E7FEA91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8580ABD9-7D83-42C4-8C23-74170E7FEA91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45267AB5-DB11-4685-BB6B-9F8E1AE9B4EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45267AB5-DB11-4685-BB6B-9F8E1AE9B4EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45267AB5-DB11-4685-BB6B-9F8E1AE9B4EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45267AB5-DB11-4685-BB6B-9F8E1AE9B4EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE787274-582E-400A-9E0C-6C0D11A66B21}
+	EndGlobalSection
+EndGlobal
