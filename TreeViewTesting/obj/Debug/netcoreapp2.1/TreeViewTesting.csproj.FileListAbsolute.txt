@@ -9,3 +9,9 @@ D:\dotnet\TreeViewTesting\obj\Debug\netcoreapp2.1\TreeViewTesting.csprojAssembly
 D:\dotnet\TreeViewTesting\obj\Debug\netcoreapp2.1\TreeViewTesting.csproj.CoreCompileInputs.cache
 D:\dotnet\TreeViewTesting\obj\Debug\netcoreapp2.1\TreeViewTesting.AssemblyInfoInputs.cache
 D:\dotnet\TreeViewTesting\obj\Debug\netcoreapp2.1\TreeViewTesting.AssemblyInfo.cs
+D:\dotnet\TreeViewTesting\bin\Debug\netcoreapp2.1\TreeViewTesting.pdb
+D:\dotnet\TreeViewTesting\obj\Debug\netcoreapp2.1\TreeViewTesting.dll
+D:\dotnet\TreeViewTesting\obj\Debug\netcoreapp2.1\TreeViewTesting.pdb
+D:\dotnet\TreeViewTesting\bin\Debug\netcoreapp2.1\myApiTreeView.dll
+D:\dotnet\TreeViewTesting\bin\Debug\netcoreapp2.1\myApiTreeView.pdb
+D:\dotnet\TreeViewTesting\obj\Debug\netcoreapp2.1\TreeViewTesting.csproj.CopyComplete
